@@ -42,6 +42,8 @@ section img.background {
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
+  background-color: black;
+  opacity: 0.8;
   z-index: -1;
 }
 
